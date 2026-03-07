@@ -11,14 +11,10 @@
             "id": "4c511bf432527a02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CodePartTwo/this is a test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "this is a test"
+              "title": "New tab"
             }
           }
         ]
@@ -185,6 +181,12 @@
   },
   "active": "4c511bf432527a02",
   "lastOpenFiles": [
+    "CCTV/walkthrough",
+    "CCTV/obsidian",
+    "CCTV/exploits",
+    "CCTV/nmap",
+    "CCTV/content",
+    "CCTV",
     "CodePartTwo/this is a test.md",
     "CodePartTwo/walkthrough/web_frontend.png"
   ]
