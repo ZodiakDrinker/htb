@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b0a5e55fd9d71c8d",
+        "id": "e159afcdb02c3ac8",
         "type": "tabs",
         "children": [
           {
-            "id": "3195d25e1c331d40",
+            "id": "0d5490c26c293659",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCTV/obsidian/Privilege escalation.md",
+                "file": "kobold/obsidian/Port Scan/Port 3552.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Privilege escalation"
+              "title": "Port 3552"
+            }
+          },
+          {
+            "id": "12b714f515688039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kobold/obsidian/Websites/bin.kobold.htb.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bin.kobold.htb"
             }
           }
         ]
@@ -183,12 +197,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "3195d25e1c331d40",
+  "active": "0d5490c26c293659",
   "lastOpenFiles": [
-    "CCTV/walkthrough/CCTV.zip",
-    "CCTV/walkthrough/CCTV.pdf",
-    "CCTV/obsidian/motioneye_login.png",
+    "kobold/walkthrough/kobold.zip",
+    "kobold/walkthrough/kobold.pdf",
+    "kobold/obsidian/Privilege escalation.md",
+    "kobold/obsidian/Websites/bin.kobold.htb.md",
+    "kobold/obsidian/Websites/mcp.kobold.htb.md",
+    "kobold/obsidian/Port Scan/Port Scan.md",
+    "kobold/obsidian/Port Scan/Port 3552.md",
+    "kobold/obsidian/Port Scan/container_sh.png",
+    "kobold/content/conf.php",
+    "kobold/exploits/poc.py",
+    "kobold/Database.php",
+    "kobold/obsidian/Port Scan/Port 443.md",
+    "kobold/conf.php",
+    "kobold/test.txt",
+    "kobold/curl",
+    "kobold/exploits/test.php",
+    "kobold/\"><img src=x onerror=alert(document.domain)>.txt",
+    "kobold/obsidian/Websites",
+    "kobold/obsidian/Port Scan/golang_login.png",
     "CCTV/obsidian/Privilege escalation.md",
+    "CCTV/obsidian/motioneye_login.png",
     "CCTV/obsidian/Port Scan/Port 80.md",
     "CCTV/obsidian/cam_inject.png",
     "CCTV/obsidian/debug_console.png",
@@ -196,19 +227,9 @@
     "CCTV/obsidian/login_zm.png",
     "CCTV/obsidian/cam_inject_execute.png",
     "CCTV/obsidian/web_content.png",
-    "CCTV/content/info.pdf",
     "Pasted image 20260315135726.png",
     "CCTV/obsidian/Port Scan/Port Scan.md",
-    "CCTV/content/test.txt",
     "CCTV/obsidian/Privilege escalation/Untitled.md",
-    "CCTV/obsidian/Privilege escalation",
-    "CCTV/exploits/4913",
-    "CCTV/exploits/sql_injeciton.py~",
-    "CCTV/test.txt",
-    "CCTV/content.txt",
-    "CCTV/sqlmap.txt",
-    "CCTV/tid",
-    "CodePartTwo/this is a test.md",
-    "CodePartTwo/walkthrough/web_frontend.png"
+    "CodePartTwo/this is a test.md"
   ]
 }
